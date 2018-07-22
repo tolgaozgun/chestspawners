@@ -1,0 +1,28 @@
+main: me.tolgaozgun.chestspawners.ChestMain
+name: ChestSpawners
+version: 1.0
+author: Progr4mm3r
+softdepend: [HolographicDisplays, Multiverse-Core]
+description: A plugin to turn your chests into spawners!
+commands:
+    Chestspawners:
+        usage: |
+               /<command> - Displays all available ChestSpawners commands
+               /<command> help - Displays all available ChestSpawners commands.
+               /<command> reload - Reloads the ChestSpawners configuration files.
+               /<command> update - Updates the ChestSpawners plugin if a newer version is available.
+        description: ChestSpawners base command.
+        aliases: [csp,cspawners, chestspawners]
+    Chestspawners help:
+         usage: /chestspawners help
+         description: Lists all available ChestSpawners commands.
+         aliases: [csp help, cspawners help, hestspawners help]
+    Chestspawners reload:
+         usage: /chestspawners reload
+         description: Reloads the ChestSpawners configuration files.
+         aliases: [csp reload, cspawners reload, chestspawners reload]
+    Chestspawners update:
+         usage: /chestspawners update
+         description: Updates the ChestSpawners plugin if a newer version is available.
+         aliases: [csp update, cspawners update, chestspawners update]
+         

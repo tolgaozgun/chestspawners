@@ -1,0 +1,22 @@
+PL_TAG: '&4ChestSpawners > '
+NO_PERM: '&bEkki leyft.'
+INVALID_FORMAT: '&bÓleyfilegt snið.'
+EMPTY_CONFIG: '&cEngar kistur fundnar.'
+UNABLE_TO_BREAK: '&eÞú getur ekki eyðilagt þetta.'
+CANNOT_STORE: '&bÞú getur ekki geymt hluti í kistubirtaranum þínum.'
+SPAWNER_READY: '&b %s birtarinn þinn er tilbúinn'
+BROKEN_SPAWNER: '&bÞú hefur eyðilagt birtara: %s'
+GIVEN_SPAWNER: '&bÞér hefur verið gefinn birtarinn: %s'
+CANNOT_DOUBLECHEST: '&cÞú getur ekki sett kistubirtarann þinn við hliðina á kistu!'
+LIST_DESC: '&bSýnir alla nothæfa kistubirtara.'
+AVAILABLE_CMDS: 'Nothæfar skipanir'
+CHEST_LIST: 'ChestSpawners: %s'
+RELOAD_SUCCESS: 'Endurhlöðun tókst.'
+RELOAD_DESC: '&bEndurhleður stillinga skrám.'
+SECS_REMAINING: '&bOnly &4%s2 &bseconds remaining for your %s1 &bto expire.'
+CHEST_EXPIRED: '&bYour &r%s &bhas expired!'
+LOADED_LANG: 'Valið tungumál: Íslenska'
+CONSOLE_ONLY: 'This command can only be executed from console for security reasons.'
+SAVE_SUCCESS: "&cSave successful."
+EXPIRED: "EXPIRED"
+INFINITE: "INFINITE"

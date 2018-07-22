@@ -1,0 +1,22 @@
+PL_TAG: '&4ChestSpawners > '
+NO_PERM: '&bНе разрешено.'
+INVALID_FORMAT: '&bНедопустимое использование.'
+EMPTY_CONFIG: '&cNo chests found.'
+UNABLE_TO_BREAK: '&eВы не можете уничтожить это.'
+CANNOT_STORE: '&bВы не можете хранить предметы в своем ChestSpawner.'
+SPAWNER_READY: '&bВаш спонсор %s готов.'
+BROKEN_SPAWNER: '&bУ вас сломанный разработчик: %s'
+GIVEN_SPAWNER: '&bВы получили ChestSpawner: %s'
+CANNOT_DOUBLECHEST: '&cВы не можете разместить свой ChestSpawner рядом с сундуком!'
+LIST_DESC: '&bСписок всех доступных ChestSpawners.'
+AVAILABLE_CMDS: 'Доступные команды'
+CHEST_LIST: 'ChestSpawners: %s'
+RELOAD_SUCCESS: 'Перезагрузка успешно.'
+RELOAD_DESC: '&bПерезагружает конфигурационные файлы.'
+SECS_REMAINING: '&bOnly &4%s2 &bseconds remaining for your %s1 &bto expire.'
+CHEST_EXPIRED: '&bYour &r%s &bhas expired!'
+LOADED_LANG: 'Selected Language: Russian'
+CONSOLE_ONLY: 'This command can only be executed from console for security reasons.'
+SAVE_SUCCESS: "&cSave successful."
+EXPIRED: "EXPIRED"
+INFINITE: "INFINITE"

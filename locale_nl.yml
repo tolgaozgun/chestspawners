@@ -1,0 +1,22 @@
+PL_TAG: '&4ChestSpawners > '
+NO_PERM: '&bGeen toestemming.'
+INVALID_FORMAT: '&bOngeldig formaat.'
+EMPTY_CONFIG: '&cGeen kisten gevonden.'
+UNABLE_TO_BREAK: '&eJe kan dit niet kapot maken.'
+CANNOT_STORE: '&bJe kan geen items in jou kistspawner doen.'
+SPAWNER_READY: '&bJe spawner %s is klaar.'
+BROKEN_SPAWNER: '&bJe hebt een spawner kapot gemaakt: %s'
+GIVEN_SPAWNER: '&bJe hebt een kistspawner ontvangen: %s'
+CANNOT_DOUBLECHEST: '&cJe kan je kistspawner niet naast een kist zetten!'
+LIST_DESC: '&bGeeft een lijst van alle beschikbare kistspawners.'
+AVAILABLE_CMDS: 'Beschikbare commandos'
+CHEST_LIST: 'KistSpawners: %s'
+RELOAD_SUCCESS: 'Succesvol herladen.'
+RELOAD_DESC: '&bHerlaad de configuratie bestanden.'
+SECS_REMAINING: '&bOnly &4%s2 &bseconds remaining for your %s1 &bto expire.'
+CHEST_EXPIRED: '&bYour &r%s &bhas expired!'
+LOADED_LANG: 'Geselecteerde Taal: Nederlands'
+CONSOLE_ONLY: 'This command can only be executed from console for security reasons.'
+SAVE_SUCCESS: "&cSave successful."
+EXPIRED: "EXPIRED"
+INFINITE: "INFINITE"

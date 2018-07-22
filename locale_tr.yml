@@ -1,0 +1,22 @@
+PL_TAG: '&4ChestSpawners > '
+NO_PERM: '&bYetkiniz yetersiz.'
+INVALID_FORMAT: '&bGeçersiz komut.'
+EMPTY_CONFIG: '&cSandık bulunamadı.'
+UNABLE_TO_BREAK: '&eBunu parçalayamazsınız.'
+CANNOT_STORE: '&bSpawner sandığınızda eşya saklayamazsınız.'
+SPAWNER_READY: '%s &bkullanıma hazır.'
+BROKEN_SPAWNER: '%s &bkırdınız.'
+GIVEN_SPAWNER: '&bVerilen spawner: %s'
+CANNOT_DOUBLECHEST: '&cChestSpawnerı bir sandığın yanına koyamazsınız!'
+LIST_DESC: '&bKullanılabilir spawnerları görüntüler.'
+AVAILABLE_CMDS: 'Kullanabileceğiniz Komutlar'
+CHEST_LIST: 'Sandıklar: %s'
+RELOAD_SUCCESS: 'Yeniden yükleme başarılı.'
+RELOAD_DESC: '&bAyar dosyalarını yeniden yükler.'
+SECS_REMAINING: '%s1 &badlı sandığınızın bitmesine &4%s2 &bsaniye kaldı.'
+LOADED_LANG: 'Secilen dil: Turkce'
+CONSOLE_ONLY: 'Güvenlik sebebiyle bu komut sadece konsoldan kullanılabilir.'
+CHEST_EXPIRED: '%s &badlı sandığınızın süresi doldu!'
+SAVE_SUCCESS: "&aKaydetme başarılı."
+EXPIRED: "SÜRESİ DOLDU"
+INFINITE: "SINIRSIZ"

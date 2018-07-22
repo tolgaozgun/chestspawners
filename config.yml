@@ -1,0 +1,87 @@
+#   
+#    ChestSpawners v1.0
+#       Author: Progr4mm3r
+#	    My Website: tolgaozgun.me
+#       My GitHub: github.com/tolgaozgun
+#	    BukkitDev Page: https://dev.bukkit.org/projects/chestspawners
+#       Spigot Page: https://www.spigotmc.org/resources/chestspawners.58536/
+#    
+
+chests:
+
+#    default:                                          # Chest's id
+#      delay: 10                                       # Every x seconds item will be put.
+#      lore: ["Hey","This is","a","chestspawner"]      # Set this chest's lore.
+#      display-name: '&cDefault Spawner'               # Set this chest's display name.
+#      item-drop: diamond                              # Set the material name to put into the chest.
+#      permission: chestspawners.spawner.default       # Permission to place and break this spawner.
+#      expire: 100                                     # Seconds before this chests expires. Set "-1" to disable expiration.
+
+# For future references, it is not suggested to remove the example above
+# Add chests below here
+# Don't use tabs while adding chests, only use spaces
+
+
+# Do not add chests below here.
+settings:
+
+# Sets the plugin language. If you don't have your language listed, you can edit the locale.yml file.
+# Available: tr, en, is, ru, nl, de
+# (Turkish, English, Icelandic, Russian, Dutch, German)
+    locale: en    
+ 
+# Enables or disables auto-save for chests.
+# Available: true & false
+    autosave: true
+    
+# Sets the auto-save timer (in seconds)
+# Available: Any integers
+    saveinterval: 600
+
+# Use holograms if HologramicDisplay plugin is available
+# Available: true & false
+    holograms: true
+
+
+# If set true, disables putting item into ChestSpawners 
+# Available: true & false
+    disable-move: true         
+    
+# If set true, ChestSpawners will not be broken. (shift-leftclick bypasses this option)
+# Available: true & false
+    disable-break: false       
+
+# If set true, Shift + Left Click on a ChestSpawner will destroy it, regardless of the disable-break setting above.
+# Available: true & false
+    shift-left-break: false
+
+# Disables the doublechest option for ChestSpawners (should be set true) 
+# Available: true & false
+    disable-doublechest: true  
+             
+
+# Warns players of the remaining time for their ChestSpawner to expire (in seconds)
+# Available: Every numbers, but must be seperated by , (comma)
+    warnings: 60,30,10            
+   
+# Enables or disables the update check on plugin start.
+# Recommended to set to true.
+# Not recommended for poor connections or connections with quotas.
+# Available: true & false
+# Default: true
+    auto-updates: true
+
+# Disable or enable warning message on chest expiration.
+# Available: true & false
+# Default: true
+    expire-warning: true
+    
+permissions:
+# Please try to refrain from using non UTF characters while using custom permissions.
+
+# Permission to list ChestSpawners
+# Default: chestspawners.list
+    list-permission: chestspawners.list
+    
+# Permission to reload ChestSpawners
+    reload-permission: chestspawners.reload   

@@ -1,0 +1,22 @@
+PL_TAG: '&4ChestSpawners > '
+NO_PERM: '&bNicht erlaubter Zugriff.'
+INVALID_FORMAT: '&bUngültiges Format.'
+EMPTY_CONFIG: '&cKeine Kisten gefunden!.'
+UNABLE_TO_BREAK: '&eDu kannst das nicht zerstören..'
+CANNOT_STORE: '&bDu kannst keine Items in deinem ChestSpawner lagern.'
+SPAWNER_READY: '&bDein Spawner %s ist bereit!'
+BROKEN_SPAWNER: '&bDu hast den Spawner zerstört: %s'
+GIVEN_SPAWNER: '&bDir wurde ein ChestSpawner gegeben: %s'
+CANNOT_DOUBLECHEST: '&cDu kannst nicht einen ChestSpawner neben einer Kiste spawnen!'
+LIST_DESC: '&bListet alle verfügbaren ChestSpawner auf'
+AVAILABLE_CMDS: 'Verfügbare Befehle'
+CHEST_LIST: 'ChestSpawners: %s'
+RELOAD_SUCCESS: 'Erfolgreich Neugestartet.'
+RELOAD_DESC: '&bLadet die Konfigurations Dateien neu.'
+SECS_REMAINING: '&bOnly &4%s2 &bseconds remaining for your %s1 &bto expire.'
+CHEST_EXPIRED: '&bYour &r%s &bhas expired!'
+LOADED_LANG: 'Ausgewählte Sprache: Deutsch'
+CONSOLE_ONLY: 'This command can only be executed from console for security reasons.'
+SAVE_SUCCESS: "&cSave successful."
+EXPIRED: "EXPIRED"
+INFINITE: "INFINITE"
