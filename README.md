@@ -1,3 +1,5 @@
+# ChestSpawners
+
 ![ChestSpawners](https://proxy.spigotmc.org/f2b1f55a2ad3d732a554f33ed1fb9bf26cf73c8e?url=http%3A%2F%2Fi.imgur.com%2FqACCyzj.png)
 <p align="center">
   Help your chests spawn items!<br>
