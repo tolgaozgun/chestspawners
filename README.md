@@ -18,29 +18,29 @@
 
 ![Commands](https://proxy.spigotmc.org/ea6d9fb6cde48b34897694b2ab2d2574b587ddea?url=http%3A%2F%2Fi.imgur.com%2FxDB9qwt.png)
 
-**/chestspawners** [/cspawners, /csp]
-Permission: chestspawners.command
-_This command is not supported for console use._
-Main command for the plugin. Displays all available commands for the user according to their permissions. If the user doesn't have the permission for a specific command nor is OP, that command won't be displayed.
+**/chestspawners** [/cspawners, /csp]<br>
+Permission: chestspawners.command<br>
+_This command is not supported for console use._<br>
+Main command for the plugin. Displays all available commands for the user according to their permissions. If the user doesn't have the permission for a specific command nor is OP, that command won't be displayed.<br>
 
-**/chestspawners help** [/cpsawners help, /csp help]
-Permission: chestspawners.command
-Has the same function with the main command.
+**/chestspawners help** [/cpsawners help, /csp help]<br>
+Permission: chestspawners.command<br>
+Has the same function with the main command.<br>
 
-**/chestspawners list** [/cspawners list, /csp list]
-Permission: chestspawners.spawners.list (This permission string can be edited via config)
-_This command is not supported for console use._
-Lists all available chestspawners.
+**/chestspawners list** [/cspawners list, /csp list]<br>
+Permission: chestspawners.spawners.list (This permission string can be edited via config)<br>
+_This command is not supported for console use._<br>
+Lists all available chestspawners.<br>
 
-**/chestspawners <chestname>** [/cspawners <chestname>, /csp <chestname>]
-Permission: This string is custom for all spawners, you can set this via config)
-_This comand is not supported for console use._
-Gives the ChestSpawner to the player.
+**/chestspawners <chestname>** [/cspawners <chestname>, /csp <chestname>]<br>
+Permission: This string is custom for all spawners, you can set this via config)<br>
+_This comand is not supported for console use._<br>
+Gives the ChestSpawner to the player.<br>
 
-**/chestspawners update** [/cspawners update, /csp update]
-Permission: none
-_This command is only supported for console use._
-Updates the plugin if a newer version is available. If auto update-check is enabled from the config, server will check for new updates on every start and notify via console.
+**/chestspawners update** [/cspawners update, /csp update]<br>
+Permission: none<br>
+_This command is only supported for console use._<br>
+Updates the plugin if a newer version is available. If auto update-check is enabled from the config, server will check for new updates on every start and notify via console.<br>
 
 ## Screenshots
 
